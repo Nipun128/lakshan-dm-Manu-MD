@@ -67,7 +67,7 @@ AUTO_TYPING : process.env.AUTO_TYPING || "true",
 AUTO_RECORDING : process.env.AUTO_RECORDING || "false", //ඔටෝ රෙකෝඩින් පෙන්නන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 OWNER_NUMBER : process.env.OWNER_NUMBER || "94719424569", // ඔයාගෙ නම්බරේ ඔතනට දාගන්න මුලට 94 තියෙන්න ඕනි 0 දාන්න එපා !
 DELCHAT : process.env.DELCHAT || "pm",
-FOOT : process.env.FOOT || "🧚‍♀️𝗞𝗔𝗪𝗘𝗘 𝗕𝗢𝗧💗",
+FOOT : process.env.FOOT || "🧚‍♀️𝗠𝗔𝗡𝗨-𝗠𝗗-𝗩❼💗",
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1500': process.env.MAX_SIZE,
 DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO,
 };
